@@ -117,6 +117,6 @@ public class ChatClient {
     }
 
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> new ChatClient("192.168.1.37", 12345));
+        SwingUtilities.invokeLater(() -> new ChatClient("localhost", 12345));
     }
 }
