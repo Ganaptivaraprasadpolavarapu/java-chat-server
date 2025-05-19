@@ -1,0 +1,15 @@
+plugins {
+    id 'application'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // No external dependencies needed for now
+}
+
+application {
+    mainClass = 'server.ChatServer'  // Main class for the server
+}
