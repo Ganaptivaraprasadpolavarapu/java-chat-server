@@ -1,0 +1,24 @@
+[2025-05-18 16:46:41] Enter your username: 
+[2025-05-18 16:46:41] ✅ prasad has joined the chat.
+[2025-05-18 16:46:58] ✅ vara has joined the chat.
+[2025-05-18 16:46:58] Enter your username: 
+[2025-05-18 16:46:58] ✅ vara has joined the chat.
+[2025-05-18 16:47:18] prasad: hello
+[2025-05-18 16:47:18] prasad: hello
+[2025-05-18 16:47:18] prasad: hello
+[2025-05-18 16:47:29] vara: hi
+[2025-05-18 16:47:29] vara: hi
+[2025-05-18 16:47:29] vara: hi
+[2025-05-18 16:53:57] ❌ vara has left the chat.
+[2025-05-18 16:53:57] Disconnected from server.
+[2025-05-19 11:41:05] Username already exists.
+[2025-05-19 11:41:23] Login successful.
+[2025-05-19 11:41:23] prasad joined.
+[2025-05-19 11:42:12] vara joined.
+[2025-05-19 11:42:12] Login successful.
+[2025-05-19 11:42:13] vara joined.
+[2025-05-19 11:44:16] Me: hi
+[2025-05-19 11:44:16] vara: hi
+[2025-05-19 11:44:16] vara: hi
+[2025-05-19 11:44:34] Me: /msg vara hello
+[2025-05-19 11:44:34] prasad (private): hello
